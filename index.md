@@ -3,7 +3,7 @@ title: Welcome
 layout: home
 nav_order: 1
 ---
-![](../../assets/images/MainScreen.png)
+![]({{ site.baseurl }}/assets/images/MainScreen.png)
 
 ### Match the word or expression with its definition 
 
@@ -15,7 +15,7 @@ Get started and create your first [exercise]
 
 ### Preview exercise
 
-![](../../assets/images/Preview.png)
+![]({{ site.baseurl }}/assets/images/Preview.png)
 
 Preview your exercise and share it
 
@@ -23,5 +23,5 @@ Get a [preview]
 
 ---
 
-[exercise]: {{ site.baseurl }}/getStarted/
+[exercise]: {{ site.baseurl }}/getstarted/
 [preview]: {{ site.baseurl }}/preview/
