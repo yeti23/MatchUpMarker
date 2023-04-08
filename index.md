@@ -23,5 +23,5 @@ Get a [preview]
 
 ---
 
-[exercise]: /getStarted/
-[preview]: /preview/
+[exercise]: {{ site.baseurl }}/getStarted/
+[preview]: {{ site.baseurl }}/preview/
