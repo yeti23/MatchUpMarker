@@ -13,5 +13,8 @@ MatchUpMarker help you to create, modify, organize exercise. You send the final 
 MatchUpMarker let you work on multiple exercises. To get started, open the MatchUpMarker app and create a [new exercise]({{ site.baseurl }}/newExercise/).
 
 Add content
+
+On right view, select plus button below view. This will open a new window.
+
 ![]({{ site.baseurl }}/assets/images/AddContent.png)
 
